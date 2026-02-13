@@ -9,7 +9,7 @@ android {
 
     defaultConfig {
         applicationId = "ru.tarandro.magnifika.monitor"
-        minSdk = 23
+        minSdk = 29
         targetSdk = 29
         versionCode = 1
         versionName = "1.0"
